@@ -1,9 +1,9 @@
-# admin-dashboard.v1
+# admin-dashboard.v2
 
 setup steps:
 
-git clone https://github.com/ashokpal100/admin-dashboard.v1
-cd admin-dashboard.v1
+git clone https://github.com/ashokpal100/admin-dashboard.v2
+cd admin-dashboard.v2
 npm install
 npm install bower -g
 bower install
